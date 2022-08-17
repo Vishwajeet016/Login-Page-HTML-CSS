@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to login Pages
 
-You can use the [editor on GitHub](https://github.com/Vishwajeet016/Login-Page-HTML-CSS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this Html code, we create the Baisc Html template and our css file. Also, we use font awesome CDN link for social media icon because we use social media icon in the login form.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And, after the body tag, we create div, and in div create form and use input type email and password.
+Then use some text like forgot password, login text with a button, and use social media icon.
 
-### Markdown
+**and CSS code,**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In css code for our login form with the social media icon. We use css basic code to style our login form. We use style form and then use input type email and password styling together.
 
-```markdown
-Syntax highlighted code block
+Then styling our social media icon using font awesome classes. Then use a media query for a responsive login form, we use 3 to 4 media queries to make a responsive login form.
 
-# Header 1
-## Header 2
-### Header 3
+And, Finally--
+you can see the final output of our login form, here you can see from box have 3d shadow and that’s all for this project.
 
-- Bulleted
-- List
+Hope you like this project, we create your own and use this project in any project as a part project like the reviews section, and a contact form.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vishwajeet016/Login-Page-HTML-CSS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank You!
